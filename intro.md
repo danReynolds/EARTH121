@@ -34,7 +34,7 @@ This means accepting that the Earth is very old.
 
 Chemicals escaped interior, slowly formed atmosphere.
 
-**Continental Drift** = proposed by Wegener in early 20th century, idea that continents moved about the face of the planet. Followed from his work on The Origin of Continents and Oceans.
+**Continental Drift** = proposed by Wegener in early 20th century, idea that continents moved about the face of the planet. Followed from his work on The Origin of Continents and Oceans. Jigsaw pattern, continents fit together.
 
 50 years later, confirmed and known as **plate techtonics**.
 
@@ -74,7 +74,7 @@ Inner is a sphere with radius 1216km, hotter but stronger because of intense pre
 
 **Ocean Basisns** have topographic features, like the Mid-Atlantic Ridge and the East-Pacific Rise, which forms a continuous belt that winds around the globe. Ridges consist of layers of volcanic rock that has been fractured and uplifted.
 
-**Continental slopes** = at edges of continents are shelves and steeper slopes. 
+**Continental slopes** = at edges of continents are shelves and steeper slopes.
 
 The ocean floor also has depressions exceeding 11km. These are called **trenches**.
 

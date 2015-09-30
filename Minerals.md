@@ -28,7 +28,6 @@ Polymorphs are minerals that can have different geometric arrangements. Graphite
 
 Some minerals transform from one polymorph to another as a result of pressure and temperature.
 
-
 ## Physical Properties of Minerals
 
 * Crystal Habit (Shape): the external expression of a mineral that reflects the orderly internal arrangement of atoms.
