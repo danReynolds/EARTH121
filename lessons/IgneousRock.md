@@ -22,7 +22,7 @@ In the upper crust, it averages about 25 degrees celsius hotter per kilometre de
 
 This change in temperature with depth is called the **geothermal gradient**. At 100km down, it is between 1200 and 1400 celsius. At these temps, rocks in the lower crust and upper mantle are near their melting point.
 
-The majority of magma forms without aid from an additional heat source. Rock that is near its melting point cna met if the pressure drops or if volatiles, fluids and gases are introduced.
+The majority of magma forms without aid from an additional heat source. Rock that is near its melting point can melt if the pressure drops or if volatiles, fluids and gases are introduced.
 
 ## Role of pressure
 
@@ -46,7 +46,7 @@ Conditions under which magma can be generated:
 
 Most magma has three parts:
 
-1. Liquid portion: called melt, composed of mobile ions of elemnts commonly found in Earth's crust.
+1. Liquid portion: called melt, composed of mobile ions of elements commonly found in Earth's crust.
 2. Solid portion: silicate minerals that have crystallized from the melt. As magma cools, solid portion increases.
 3. Gaseous portion: water vapour, carbon dioxide and sulphur dioxide are the most common volatile components of magma.
 
@@ -185,9 +185,9 @@ Dykes are tabular discordant plutons produced when magma is injected into fractu
 
 # Sills
 
-Tabular concordant plutons formed when magma is injected along sedimentary bedding surfaces and are called sills. Product of fluid mafic magmas in shallow environments. Sills closely resemble buried laval flows. Both are tabular and have columnar jointing. **Columnar joints** form as igneous rocks cool and develop shrinkage fractures that produce long, pillar-like columns.
+Tabular concordant plutons formed when magma is injected along sedimentary bedding surfaces and are called sills. Product of fluid mafic magmas in shallow environments. Sills closely resemble buried lava flows. Both are tabular and have columnar jointing. **Columnar joints** form as igneous rocks cool and develop shrinkage fractures that produce long, pillar-like columns.
 
-To distiniguish between a sill and a buried lava flow, the upper portion of a buried lava flow usually has voids produced by escaping gas bubbles, while sills form when magma has been forcefully intruded between sedimentary rocks and has baked zones in the rock above and below. Buried lava flows have baked zones only below, not on the overlying rock as well.
+To distinguish between a sill and a buried lava flow, the upper portion of a buried lava flow usually has voids produced by escaping gas bubbles, while sills form when magma has been forcefully intruded between sedimentary rocks and has baked zones in the rock above and below. Buried lava flows have baked zones only below, not on the overlying rock as well.
 
 ## Laccoliths
 

@@ -24,7 +24,7 @@ Mass wasting is sometimes triggered when heavy rains or periods of snowmelt satu
 
 Moist sand is adhesive, but given enough water, the saturated particles will flow apart easily.
 
-When clay is wetted, it becomes very slick and acts as a lubricating agent. Water also adds wait to the material, which may be enough to cause the material to slide or flow downslope.
+When clay is wetted, it becomes very slick and acts as a lubricating agent. Water also adds weight to the material, which may be enough to cause the material to slide or flow downslope.
 
 2. Oversteepened Slopes
 

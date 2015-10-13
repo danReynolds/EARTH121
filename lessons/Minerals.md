@@ -52,7 +52,7 @@ Some minerals fracture into splinters or fibres.
 
 * Specific Gravity: ratio of the weight of a mineral to the weight of an equal volume of water.
 
-If a mineral weights 3 times as much as an equal volume of water, it has specific gravity 3.
+If a mineral weighs 3 times as much as an equal volume of water, it has specific gravity 3.
 
 ## Mineral Classes
 

@@ -1,4 +1,15 @@
+Rock = assemblage of minerals bound together, undifferentiated material, solid organic material.
+
+Rocks can contain fossils in it.
+
+Erratic rock = rock not like surrounding rocks
+
+Basalt = igneous, extrusive, formed at the surface by lava.
+Granite = igneous, intrusive, formed underground by magma.
+
 Igneous: Typically have a compact, crystalline texture which is isotropic (uniform, non-laminated). Extrusive rocks (lavas) have small crystals «1 mm) due to rapid cooling, intrusive rocks have coarser crystals (1->5 mm) as they cooled more slowly within the Earth. Look for contacts between intrusive bodies and the older rocks into which they were emplaced.
+
+All igneous rocks consist of Granite, Diorite, Gabbro, Peridotite, Rhyolite, Andesite, Basalt, Komatiite.
 
 Sedimentary: Characterized by layering or bedding, a reflection of the discontinuous accumulation of sediment. This may vary from the sub-mm scale to the m scale. Look for evidence of mineral grains (especially quartz) or rock fragments held together by a precipitated cement, and for fossils.
 
@@ -10,16 +21,22 @@ Parts:
 Sediment, Sedimentary rocks, Metamorphic rocks, Igneous rocks, Magma.
 
 Processes:
-Metamorphism process involving heat and pressure. Lithification. Crystallization. Weathering.
+Metamorphism process involving heat and pressure. Lithification. Crystallization. Weathering. Melting.
 
-DRAW THE DAMN ROCK CYCLE
+## Metamorphism:
 
-# Weathering
+How it happens: When sedimentary rock is buried deep in the crust, heat and pressure change it to metamorphic rock.
 
-Weathering does not transport materials, it generates the raw materials for transport by agents of wind, ice, gravity.
+Where it leads: When metamorphic rock melts, it becomes magma.
 
-Process converts rocks to sediment.
+## Crystallization
 
-Dissolution (minerals breaks down in water), Hydrolysis, Oxidation.
+How it happens: When magma or lava cools and solidifies, igneous rock forms.
 
-# Igneous Rocks
+What it leads: When weathering occurs, igneous rocks becomes sediment.
+
+## Weathering
+
+How it happens: Weathering breaks down rock that is transported and deposited as sediment.
+
+What it leads: Through lithification, sediment is compacted and cemented to form sedimentary rock.

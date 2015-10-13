@@ -36,7 +36,7 @@ Chemicals escaped interior, slowly formed atmosphere.
 
 **Continental Drift** = proposed by Wegener in early 20th century, idea that continents moved about the face of the planet. Followed from his work on The Origin of Continents and Oceans. Jigsaw pattern, continents fit together.
 
-50 years later, confirmed and known as **plate techtonics**.
+50 years later, confirmed and known as **plate tectonics**.
 
 **Pangaea** = single continent suggested by Wegener. Seaward edge of **continental shelf**, gently sloping material extending from the shores, used to fit them together. Mountain belts also fit together spanning continents.
 
@@ -72,7 +72,7 @@ Inner is a sphere with radius 1216km, hotter but stronger because of intense pre
 
 **Shields** = extensive and relatively flat expanses composed largely of crystalline, granite-like rocks. Some shield-rock is aged over 4 billion years.
 
-**Ocean Basisns** have topographic features, like the Mid-Atlantic Ridge and the East-Pacific Rise, which forms a continuous belt that winds around the globe. Ridges consist of layers of volcanic rock that has been fractured and uplifted.
+**Ocean Basins** have topographic features, like the Mid-Atlantic Ridge and the East-Pacific Rise, which forms a continuous belt that winds around the globe. Ridges consist of layers of volcanic rock that has been fractured and uplifted.
 
 **Continental slopes** = at edges of continents are shelves and steeper slopes.
 
@@ -82,7 +82,7 @@ The ocean floor also has depressions exceeding 11km. These are called **trenches
 
 **Rock cycle** = cycle that involves the processes by which one type of rock changes to another, be it igneous, sedimentary, or metamorphic.
 
-**Igneous Rock** = cooled magnma.
+**Igneous Rock** = cooled magma.
 
 **Sedimentary Rock** = small particles of sediment undergo *lithification*, a conversion to rock when compacted by the weight of overlaying layers or when cemented as percolating water fills the spaces between particles with mineral matter.
 
