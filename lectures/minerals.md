@@ -1,6 +1,6 @@
 Silicon
 
-A non-metalllic element with atomic number 14 and the chemical symbol of Si. Occurs extensively in the Earth’s crust in silica and silicates. Present in sand and glass. Used in a wide variety of electronic and computer components (i.e. LED, power supplies, photodetectors).
+A non-metallic element with atomic number 14 and the chemical symbol of Si. Occurs extensively in the Earth’s crust in silica and silicates. Present in sand and glass. Used in a wide variety of electronic and computer components (i.e. LED, power supplies, photodetectors).
 
 Silica
 

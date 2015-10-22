@@ -46,7 +46,7 @@ for obvious reasons.
 
 Intense ground shaking during earthquakes can cause water-saturated surface materials to lose strength and behave like fluid-like masses.
 
-These masses are more likely to become mass wastes eve at lower angles of repose.
+These masses are more likely to become mass wastes even at lower angles of repose.
 
 ## Classification of Mass Wasting Processes
 

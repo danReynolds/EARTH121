@@ -74,7 +74,7 @@ Each silicate mineral has a structure and a chemical composition that indicate t
 
 ### Ferromagnesian (Dark) Silicates
 
-The dark silicates, or ferromagnesian silicates are those minerals containing ions of iron or magnesuium or both in their structure.
+The dark silicates, or ferromagnesian silicates are those minerals containing ions of iron or magnesium or both in their structure.
 
 Because of iron content, they are darker and have higher specific gravities.
 

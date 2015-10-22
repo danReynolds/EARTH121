@@ -123,7 +123,7 @@ Large masses of magma that slowly solidify far below the surface. These course-g
 
 ## Porphyritic Texture
 
-Magma containing large crystals that erupts at the surface has a polyphyritic texture. The large crystals in the rock are referred to as **phenocrysts** and the matrix of its smaller crystals are called **ground mass**.
+Magma containing large crystals that erupts at the surface has a porphyritic texture. The large crystals in the rock are referred to as **phenocrysts** and the matrix of its smaller crystals are called **ground mass**.
 
 ## Glassy Texture
 
@@ -147,7 +147,7 @@ Form in the late stages of crystallization when water and other volatiles like c
 
 ## Felsic Igneous Rocks
 
-Granite is the best known of all igneous rocks, and is felsic. Granite is phaneritic in texture, 20% quartz and 65% feldspar.
+Granite is the best known of all igneous rocks, and is intrusive, felsic. Granite is phaneritic in texture, 20% quartz and 65% feldspar.
 
 **Rhyolite** = extrusive equivalent of granite and like granite, is composed of light-coloured silicates. Buff to pink or light grey in color. Aphanitic, with glass fragments and voids indicating rapid cooling in a surface environment.
 
