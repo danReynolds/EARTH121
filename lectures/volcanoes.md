@@ -32,7 +32,7 @@ Two dominant styles of eruption:
 
 The flow style depends on the temperature, silica content and ease of escape. Low silica means less viscous.
 
-**Explosive Eruptions**: produce pyroclastics, dust, lava, flung into the air. High viscosity. Andesitic and Rhyolitic compositions, create stratovolcanoes.
+**Explosive Eruptions**: produce pyroclastics, dust, lava, flung into the air. High viscosity. Andesitic and Rhyolitic compositions, create stratovolcanoes. Stratovolcanoes are also called composite volcanoes.
 
 Viscosity of Magma:
 
@@ -59,3 +59,32 @@ Rhyolite:
 Lowest eruption temperature
 68%-77% silica
 Highest viscosity
+
+Convergent boundaries lead to composite volcanoes.
+Divergent boundaries lead to shield volcanoes.
+Transform boundaries leads to no volcanoes.
+
+Midterm heavy in Chapter 1.
+
+Warning signs precede most eruptions:
+
+1. Earthquake activity: magma flow increases seismically.
+2. Heat Flow: magma causes volcanoes to heat up.
+3. Changes in shape: Magma causes volcanoes to inflate.
+4. Emaission increases: Changes in gas mix and volume.
+
+## Advantages of volcanoes
+
+Fertile soil, geothermal energy, tourism, landscape and scenery.
+
+## Pyroclastic Flows and Surges
+
+Responsible for some of the worst natural hazards in the last century.
+
+Most hazardous, avalanche of hot ash, gas, rocks.
+
+Can flow up to 100km.
+
+Flows are dense, larger material, more momentum at 100-150km/h.
+
+Surges, faster, more mobile, less dense at 350km/h

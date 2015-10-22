@@ -2,9 +2,9 @@
 
 German meteorologist, polar explorer. Wrote the Origins of the Continents and Oceans in 1915.
 
-Hypothesized a former super-continent, Pangaea used to exist.
+Hypothesized a former super-continent, **Pangaea** used to exist.
 
-He suggested that land masses slowly move, continental drift.
+He suggested that land masses slowly move, **continental drift**.
 
 ## Scientific Revolution of 1960
 
