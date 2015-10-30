@@ -170,4 +170,230 @@ One example of inorganic precipitation is the dripstone that decorates many cave
 
 With organic precipitation, water-dwelling animals and plants extract dissolved mineral matter to form shells and other hard parts. After the organisms die, their skeletons collect by the millions on the floor of a lake or ocean as bio-chemical sediment.
 
-### Limestones
+## Carbon Cycle
+
+Atmosphere->Hydrosphere: Carbon dioxide combines with water to form carbonic acid
+Hydrosphere->Lithosphere: Carbonic acid attacks rocks of the Lithosphere
+Lithosphere: Weathering of carbonic-bearing rocks
+Biosphere->Lithosphere: Biological material decays creating biomass and possibly oil under the correct conditions.
+Biosphere->Atmosphere: Burn biological material to form CO2
+Atmosphere->Biosphere: Plants consume CO2 in photosynthesis
+Biosphere->Atmosphere: Plants return some CO2 to the atmosphere via transpiration
+
+## Limestones
+
+Represent about 10% of the total volume of all sedimentary rocks. Composed mostly of calcite, forming either by inorganic or biochemical processes. The mineral composition of all limestone is similar, yet many different types exist.
+
+### Organic Limestones
+
+Corals produce large quantities of marine limestone. These relatively simple invertebrate animals secrete a calcareous (calcium carbonate-rich) external skeleton.
+
+Although individual coral animals, called polyps, are small in size, many create colonies with large calcareous skeletal frameworks that, in turn, build up to form reefs.
+
+Although most limestone is the product of biologic processes, shells and skeletons can re-crystallize before becoming lithified into rock.
+
+One easily identified biochemical minestone is **coquina**, composed of poorly cemented shells, shell fragments, and other skeletal components as well as calcareous mud, called fossiferous limestone.
+
+Another example of limestone is chalk, a soft, porous rock made up of almost entirely of the hard parts of microscopic marine organisms.
+
+### Inorganic Limestones
+
+These limestones form when chemical changes, high water temperatures, and or microbial activity increases the concentration of calcium carbonate to the point that it precipitates.
+
+*Travertine* is an example found in caves, where groundwater is the source of the calcium carbonate.
+
+As water droplets evaporate in a cavern, salts become concentrated, causing some of the CO2 dissolved in the water to escape and calcium carbonate precipitates.
+
+Another type is *oolitic limestone*, composed of small spherical grains called *ooids*.
+
+Ooids form in shallow marine waters as tiny seed particles, commonly small shell fragments, and are moved back and forth by currents.
+
+As the grains are rolled about in the warm water, which is supersaturated with calcium carbonate, they become coated with layer upon layer of the precipitate.
+
+### Dolostone
+
+Dolostone is composed of the calcium-magnesium carbonate mineral dolomite.
+
+Although dolostone can rarely form by direct precipitation from seawater, most dolostone probably originates when magnesium, dissolved in seawater or groundwater, replaces half the calcium in limestone.
+
+Most dolostone are ancient rocks in which there was ample time for magnesium to replace calcium. Dolomite is less prone to being dissolved by acidic rainwater that is calcite and therefore often forms prominent cliff faces.
+
+### Chert
+
+Chert is the name used for a number of hard rocks made of silica including *flint*, whose dark colour results from the organic matter within it. *Jasper*, a red variety coloured by iron oxide and banded *agate*.
+
+Chert deposits are commmonly found in one of two situations:
+
+1. As irregularly shaped nodules in limestone/dolostone
+2. As tabular layers of rock
+
+The silica composing many chert nodules may have deposited inorganically by direct precipitation from water, sometimes developing around a fossil nucleus.
+
+Most layers of chert originated primarily as biochemical sediment. Some marine organisms, such as diatoms and radiolarians produce glasslike silica skeletons.
+
+These tiny organisms are able to extract silica even though seawater contains only tiny quantities.
+
+It is from their remains that most chert beds are believed to originate. Some bedded cherts, however, occur together with lava flows and layers of volcanic ash.
+
+In these cases, silica was derived from composition of the volcanic ash and not from biochemical sources.
+
+Chert is also found interbedded with iron-rich deposits in banded iron formation, indicating there was more dissolved silica in the sea during Precambrian times than today.
+
+Like glass, most chert has a conchoidal fracture.
+
+## Evaporites
+
+Very often, evaporation is the mechanism triggering deposition of chemical precipitates in places like salt flats, playa lakes, and lagoons. Minerals commonly precipitated in this fashion include halite, rock salt, gypsum.
+
+Halite is the common salt use by everyone in cooking. Rock salt is used for de-icing roads.
+
+In the geologic past, many areas that are now dry land were basins submerged under shallow arms of a sea that had only narrow connections to the open ocean.
+
+Eventually, seawater moved into the bay to replace water lost by evaporation. The water eventually became saturated and salt deposition began. These deposits are called evaporites.
+
+When a body of seawater evaporates, the minerals that precipitate do so in a sequence that is determined by their solubility.
+
+Less soluble minerals precipitate first and more soluble minerals precipitate later, as silinity increases.
+
+Gypsum precipitates when about two-thirds to three-quarters of seawater evaporated, and halite settles out when nine-tenths of the water has been removed.
+
+On a smaller scale, evaporite desposits can be seen in places like Great Salt Lake of Utah and in saline lakes in Canada.
+
+Following rains or snowmelt, streams flow into an enclosed basin. As the water evaporates, **salt flats** form when dissolved materials are precipitated as a white crust on the ground.
+
+## Coal: An Organic Sedimentary Rock
+
+Coal is made of organic matter. Under a magnifying glass it often reveals fossil remnants of leaves, bark and wood that have been chemically altered but are still identifiable.
+
+This supports the conclusion that coal is the end product of large amounts of plant material buried for millions of years.
+
+Coal formation requires large quantities of plant remains to accumulate in a swamp.
+
+Stagnant swamp water is oxygen-deficient, so complete decay, oxidation, of the plant material is not possible.
+
+Instead, the plants are attacked by certain bacteria, which partly decompose the organic material and liberate oxygen and hydrogen.
+
+As these elements escape, the percentage of carbon gradually increases.
+
+The partial decomposition of plant remains in an oxygen-poor swamp creates a layer of *peat*, a soft brown material in which plant structures are still easily recognized.
+
+With shallow burial, peat slowly changes to lignite, a soft brown coal.
+
+Burial increases the temperature of sediments as well as the pressure on them. The higher temperatures bring about chemical reactions within the plant materials and yield water and organic gases.
+
+As the load increases from more sediment on top of the developing coal, the waer and volatiles are pressed out and the proportion of fixed carbon, the remaining solid combustible material, increases.
+
+The greater the carbon content, the greater is the coal's energy ranking as a fuel.
+
+Deeper burial transforms lignite into a harder, more compacted black rock called bituminous coal.
+
+Compared with peat, this coal may be only tenth as thick.
+
+Lignite and bituminous coals are sedimentary rocks. However, when sedimentary layers are subjected to the folding and deformation associated with mountain building, the heat and pressure can cause a further loss of volatiles and carbon.
+
+Coal is a major energy resource. Its role as a fuel and some of the problems associated with burning coal are in Chapter 20.
+
+## Classification of Sedimentary Rocks
+
+The classification scheme divides sedimentary rocks into two major groups:
+
+1) Detrital
+2) Chemical
+
+The main criterion for subdividing the detrital rocks is particle size, whereas the primary basis for distinguishing among different rocks in the chemical group is their mineral composition.
+
+Texture is another part of sedimentary rock classification. There are two major textures used in the classification of sedimentary rocks:
+
+1) Clastic: Meaning broken. Rocks that display a clastic texture consist of discrete fragments and particles that are cemented and compacted together.
+
+Cement is present in the spaces between particles, and there openings are rarely filled completely.
+
+All detrital rocks have a clastic texture.
+
+The term bioclastic is commonly applied to rocks dominated by skeletal remains.
+
+Some chemical sedimentary rocks have a **non-clastic** texture, also called crystalline texture, in which the minerals form a pattern of interlocking crystals.
+
+The crystals may be very small like in chert, or large enough to be visible like rock salt.
+
+Rocks with non-clastic textures are often those deposited when seawater evaporates. The materials that make up many other nonclastic rocks may actually have originated as detrital deposits.
+
+The clastic nature of the grains was subsequently obliterated or obscured when they became lithified into limestone or chert.
+
+Nonclastic rocks consist of intergrown crystals and some may resemble igneous rocks, which are also crystalline.
+
+The two are easy to distinguish because the minerals in non-clastic sedimentary rocks are very different from those in igneous rocks.
+
+For example, rock salt, gypsum and some forms of limestone consist of inter-grown crystals, but the minerals within these rocks are soluble, seldom associated with igneous rocks and scratch easily.
+
+## Sedimentary structures
+
+Sediments exhibit a variety of structures. Some, such as graded beds are created as currents decrease and allow sediment particles to settle and accumulate.
+
+Other form after the sediment is deposited. Mud cracks for example, are produced when mud that was formerly wet shrinks as it dries. When present, sedimentary structures provide additional info that can be useful in the interpretation of Earth history and useful in the search for natural resources.
+
+Sedimentary rocks form as a layer upon layer of sediment accumulates in various depositional environments. These layers, called **strata** or beds, are the single most common characteristic feature of sedimentary rock.
+
+Each stratum is unique. It may be coarse sandstone, a fossil-rich limestone, a black shale, and so on.
+
+The variations in texture, composition, and thickness reflect the different conditions under which each layer was deposited. The thickness of beds range from very think to tens of metres thick.
+
+Separating the strata are **bedding planes**, flat surfaces along which rocks tend to separate or break.
+
+Changes in the grain size or composition of the sediment being deposited can create bedding planes. Pauses in the deposition can also lead to layering because chances are low that newly deposited materials will be the same as previously deposited.
+
+Because most sediments accumulate as particles that settle from a fluid, most strata are originally deposited as horizontal layers.
+
+There are circumstances when sediments do not accumulate in horizontal beds. Sometimes when a bed of sedimentary rock is examined, we see layers within it that are inclined to the horizontal. When this occurs, it is called **cross-bedding** and is the most characteristic of sand dunes, river deltas and other stream channel deposits.
+
+**Graded beds** represent another special type of bedding. In this case, the particles within a single sedimentary layer change from coarse at the bottom to fine at the top.
+
+When a current experiences a rapid energy loss, the largest particles settle first, followed by successively smaller, lighter grains.
+
+Other features found in sedimentary rocks also give clues to past environments. A conglomerate may have been bed load in a high-energy stream. Wet mud is observed to dry and shrink on exposure to air, forming **mud cracks**. **Ripple marks** are small waves of sand that develop on the surface of a sediment layer by the action of moving water or air.
+
+The ridges form at right angles to the direction of motion. When present in solid rock, can be used to determine the direction of movement of ancient wind or water currents.
+
+Other ripple marks have an asymmetrical form. These features, called oscillation ripple marks, result from back-and-forth movement of surface waves in a shallow near-shore environment.
+
+Storms are capable of eroding, transporting, and depositing large volumes of sediment in a very short time.
+
+This contrasts greatly with the small volumes of sediments that are generally observed during calm water intervals. A common type of sedimentary structure found in sandy storm deposits is **hummocky cross-stratification**, characterized by low-angle laminations that define wavelike undulations up to 1 metre long in cross-section.
+
+This type of structure is probably formed by large storm waves in shallow marine environment.
+
+## Fossils
+
+Fossils are the remains of traces of prehistoric life and are important inclusions in sediment and sedimentary rocks. Fossils can provide information on sedimentary environments such as water salinity, temperature, turbidity, depth and sediment softness/firmness that may not otherwise be obvious in the physical characteristics of the host rock.
+
+Fossils are important time indicators and play a key role in correlating rocks of similar ages among different areas of the world. Fossils can be loosely classified into two categories:
+
+1) Body fossils, which preserve evidence of the tissues of an organisms
+2) Trace fossils, which preserve evidence of an organism's activities
+
+Only a small fraction of organisms remain as fossils. The preservation of their remains requires their isolation from scavengers and microbes that consume and disturb dead tissue and from the physical breakdown of mineralized tissues.
+
+Fossil preservation is more likely to occur when the remains are rapidly entombed, or when rapid entombment is accompanied by the suppression of scavenging and decomposition.
+
+Amber is one example of a preservative, as is tar and permafrost.
+
+The combination of rapid burial of remains and very low oxygen levels allow soft tissue to be preserved.
+
+Some fossils are preserved as a result of carbonization, the preservation of tissue as a carbon film upon the loss of volatile tissue components and precipitation of clay or mica minerals on the tissue surface.
+
+Soft tissue can also be represented in the fossil records by *imprints* despite not being preserved itself.
+
+The preservation of hard parts can follow a number of pathways, depending on the processes that are subjected to both before and after burial.
+
+The simple addition of minerals to the original remains is called **petrifaction**, or **permineralization** and is a common mode of preservation observed in highly porous remains.
+
+Alternatively, the original minerals in the hard parts may undergo **replacement**, a process that involves the substitution of original materials by a different substance.
+
+**External mould** = organism leaves a mould in the sediment surrounding it
+**Internal mould** = sediment is able to fill the empty space between parts of organism, forming an internal mould that preserves internal features of the shell such as muscle scars.
+
+If parts of the organism dissolve away, the empty space layer is filled by minerals called a *cast*.
+
+Trace fossils do not represent actual remains of organisms but rather record their activities such as traces including footprints and burrows.
+
+As in body fossils, the preservation of trace fossils in sediment require isolation from agents of disturbance that would otherwise obscure the evidence left by the organism.
