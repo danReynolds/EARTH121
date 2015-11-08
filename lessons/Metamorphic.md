@@ -206,3 +206,19 @@ Continued subduction drags rocks into the mantle where the blueschist is further
 **Metamorphic facies** are defined by a distinctive assemblage of minerals that can be used to designate a particular set of metamorphic environmental conditions recorded in the rocks.
 
 An advantage of this scheme is that rocks produced by different types of metamorphism can be interpreted within a single, unified context.
+
+The name of metamorphic facies refer to metamorphic rock derived from a basaltic parent rock. Pentti Eskola, the geologist who proposed the metamorphic facies scheme in 1915, concentrated on the metamorphic basalts.
+
+The *hornfel* facies are associated with the high temperatures and low pressures involved in contact metamorphism. The *zeolite* facies reflect very low-grade memtamorphism involving low heat and low pressure and are associated with burial metamorphism and the lowest grade of regional metamorphism.
+
+Increasing temperatures and pressures associated with regional metamorphism are recorded by the *greenschist amphibolite granulite* facies sequence.
+
+Subduction zone metamorphism is characterized by the *blueschist facies*, representing relatively low temperatures but high pressure.
+
+Finally, rocks of the *eclogite* facies are diagnostic of very high temperatures and pressures encountered by a deeply subducted slab of oceanic lithospher.
+
+## Ancient Metamorphic Environments
+
+There are large expanses of metamorphic rock within the stable continenal interiors. These flat expanses of metamorphic and igneous rocks are called **shields**. One such region, the Canadian Shield, has very little topographic expression.
+
+Shields are ancient rock and their structure is similar to that found in the cores of younger, deformed mountainous terrains. This evidence strongly supports the generally accepted view that Earth has been a dynamic planet throughout most of its history. Studies of these vast areas of metamorphism in the context of the plate tectonic model have given geologists new insights into the problem of discerning just how the continents came to exist.
