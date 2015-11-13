@@ -103,3 +103,47 @@ So intersect your rock with a hypothetical horizontal plane, and the line that t
 This data is plotted on a topographic map. By using this information, the geologists can reconstruct the pre-erosional structures and begin to interpret the region's geologic history.
 
 ## Folds
+
+During mountain building, flat-lying sedimentary and volcanic rocks are often bent into a series of wavelike undulations called **folds**.
+
+Folds in sedimentary strata resemble those that form when you push the ends of a piece of paper together.
+
+Most folds result from compressional stresses that shorten and thicken the crust. Occasionally, the folds are found separate, but most often they occur together a series of waves and undulations.
+
+The sides of a fold are called the limbs. A line drawn along the crest of the fold is termed the axis of the fold. In some folds, the axis is horizontal along or parallel to the surface, riding the crest. In more complex folding, the fold axis is often inclined at an angle known as the **plunge**. The **axial plane** is an imaginary surface that divides a fold as symmetrically as possible.
+
+## Types of Folds
+
+The two most common types of folds are called anti-cline and synclines. An **anticline** is most commonly formed by the up-folding or have been cut through deformed strata. Commonly found in association with anticlines are down-folds or troughs called **synclines**.
+
+Notice that the limb of an anticline is also a limb of the adjacent syncline.
+
+An asymmetric fold is said to be *overturned* if one limb is tilted beyond the vertical. An overturned fold can also lie on its side so that the axial plane of the fold would actually be horizontal.
+
+These *recumbent* folds are common in mountainous regions like the Alps of Europe.
+
+Folds are closely related to faults. Broad regional features called **monoclines** are large, step-like folds in otherwise horizontal sedimentary strata. These folds appear to be the result of the reactivation of steeply dipping fault zones located in basement rocks beneath the plateau.
+
+As large blocks of basement rock were displaced upward along ancient faults, the comparatively ductile sedimentary strata above responded by folding.
+
+## Domes and Basins
+
+Broad up-wards in basement rock can deform the overlying cover of sedimentary strata and generate large folds.
+
+When this up-warping produces a circular or elongate structure, the feature is called a **dome**. Down-warped structures having a similar shape are termed **basins**.
+
+Domes can also be formed by the intrusion of magma (laccoliths). In addition, the upward migration of salt formations can produce domes.
+
+Because large basins contain sedimentary beds sloping at such low angles, they are usually identified by the age of the rocks composing them.
+
+The youngest rocks are found near the center, and the oldest are on the flanks. This is the opposite of a dome, where the oldest rocks form the core. Makes sense, gravity.
+
+## joints
+
+Among the most common rock structures resulting from brittle deformation are fractures called **joints** along which no appreciable displacement has occurred.
+
+Although some joints have a random orientation, most occur in roughly parallel groups.
+
+Most joints are produced when rocks in the outermost crust are deformed. Tensional and shearing stresses cause the rock to fail by brittle structure.
+
+When folding occurs, rocks situated at the axes of the folds are elongated and pulled apart to produce tensional joints. Extensive joint patterns can also develop in response to relatively subtle and often barely perceptible, regional up-warping and down-warping of the crust.
