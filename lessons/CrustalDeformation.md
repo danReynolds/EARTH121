@@ -138,7 +138,7 @@ Because large basins contain sedimentary beds sloping at such low angles, they a
 
 The youngest rocks are found near the center, and the oldest are on the flanks. This is the opposite of a dome, where the oldest rocks form the core. Makes sense, gravity.
 
-## joints
+## Joints
 
 Among the most common rock structures resulting from brittle deformation are fractures called **joints** along which no appreciable displacement has occurred.
 
@@ -147,3 +147,77 @@ Although some joints have a random orientation, most occur in roughly parallel g
 Most joints are produced when rocks in the outermost crust are deformed. Tensional and shearing stresses cause the rock to fail by brittle structure.
 
 When folding occurs, rocks situated at the axes of the folds are elongated and pulled apart to produce tensional joints. Extensive joint patterns can also develop in response to relatively subtle and often barely perceptible, regional up-warping and down-warping of the crust.
+
+Many rocks are broken by two or three sets of intersecting joints that slice the rock into numerous regularly shaped blocks where chemical weathering can occur.
+
+In many areas, groundwater movement and dissolution are controlled by the joint pattern.
+
+A system of joints can influence the direction that stream courses follow. Some of the world's largest and most important mineral deposits were emplaced along joint systems.
+
+Hydrothermal solutions can migrate into fractured rock hosts and precipitate economically important amounts of copper, silver, gold, etc..
+
+Highly jointed rocks present a risk to the construction of engineering projects including highways and dams.
+
+## Faults
+
+**Faults** are fractures in the crust along which displacement has taken place. Occasionally, small faults can be recognized in road cuts where sedimentary beds have been offset.
+
+Faults of this scale usually occur as single discrete breaks. Large faults like the San Andreas Fault in California, actually have displacements of hundreds of kilometres and consist of many inter-connecting fault-services.
+
+These *fault zones* can be several kilometres wide. Sudden movements along faults cause most earthquakes. Many faults are inactive remnants of past deformation.
+
+Along active faults, rock is often broken and pulverized as crustal blocks on opposite sides of a fault slip past one another.
+
+The loosely coherent, clayey material that results from this activity is called *fault gouge*. On some fault surfaces the rocks become highly polished and striated or grooved as the crustal blocks slide past one another.
+
+These polished surfaces with tiny straight parallel ridges called *slickensides* provide geologists with evidence for the direction of the most recent displacement along the fault.
+
+## Dip-Slip Faults
+
+Faults in which the movement is primarily parallel to the dip of the fault surface are called **dip-slip** faults. Up and down displacements along dip-slip faults can produce long, low cliffs called **fault scarps**. Fault scarps are produced by displacements that generate earthquakes.
+
+The rock surface immediately above the fault is called the **hanging wall** and the rock surface below it is called the **footwall**. So if the fault is a line running down at an angle, the hanging wall is the portion above the line, and the footwall is the portion below the line.
+
+Two major types of dip-slip faults are:
+
+1. **Normal faults**: Dip-slip faults where the hanging wall block moves down relative to the footwall block. Footwall stays where it was before the fault, hanging wall slides down.
+
+Most normal faults have steep dips of about sixty degrees and tend to flatten out with depth.
+
+Normal faulting is prevalent at spreading centres where plate divergence occurs. A central block called a **graben** is bounded by normal faults and drops as the plates separate.
+
+Grabens produce an elongate valley bounded by relatively uplifted structures called **horsts**.
+
+Large inactive normal fault systems are the rifted continental margins such as along the east coasts of the Americas and the west coasts of Europe and Africa.
+
+Normal faults represent the tensional stresses that pull the crust apart. This pulling apart can be accomplished by uplifting, causing the surfaces to stretch and break, or by divergent horizontal forces.
+
+2. **Reverse and Thrust Faults**:
+
+Reverse faults and thrust faults, reverse faults with an angle of dip of less than 45%, are dip-slip faults where the hanging wall block moves up relative to the footwall block.
+
+Because the hanging wall block moves up and over the footwall block, reverse and thrust faults accommodate shortening of the crust.
+
+Most high-angle reverse faults are small and accommodate local displacements in regions dominated by other types of faulting.
+
+Thrust faults exhibit displacements ranging from millimetres to tens of kilometres.
+
+Thrust faulting is most pronounced in subduction zones and other convergent boundaries where plates are colliding and compressional forces dominate.
+
+In these settings, crustal blocks are displaced *toward* one another, resulting in crustal thickening and shortening.
+
+An isolated remnant of a thrust sheet is called a **klippe**.
+
+## Strike-Slip Faults
+
+Faults in which the dominant displacement is horizontal and parallel to the strike of the fault surface. Many strike-slip faults produce a linear trace that is visible over a great distance.
+
+Rather than a single fracture, large strike-slip faults consist of a zone of roughly parallel fractures, up to several km wide.
+
+The most recent movement is often along a strand only a few metres wide, which may offset features, such as stream channels.
+
+Crushed and broken rocks produced during faulting are more easily eroded, often producing linear valleys or troughs that mark the locations of strike-slip faults.
+
+A strike-slip fault displaces horizontally, along the direction of the horizontal surface rather than vertially up or down the crust.
+
+Many major strike-slip faults cut through the lithosphere and accommodate motion between two large lithospheric plates. These special kind of strike-slip faults are called **transform faults**.
