@@ -76,3 +76,39 @@ High natural radioactivity.
 ## Quartz-Illite Shales
 
 * Diagenesis has led to extensive natural fractures
+* Absence of smectite is good news
+* High brittleness, but low Porosity
+
+We would like to have a minimum of 20 meters of shale with an average porosity of 5-10%.
+
+## Importance of Natural fractures
+
+Naturally existing fractures are largely closed. When we do fracturing, we want to open and connect natural fractures to new fractures.
+
+The properties of the natural fractures are very important but we don't know how to incorporate them into models.
+
+* Fracture cohesion, frictional behaviour, ductility
+* Fabric (frequency, orientation, joint sets, etc.)
+* Compressibility of fractures and the effect on permeability
+* Effect of changing stresses on fracture aperture
+
+## Shale Gas Effects
+
+Shale gas will replace oil in many applications. Gas will partly replace coal for the generation of electrical power.
+
+The economic power of Russia, Venezuela, and Iran is diminishing. The world energy game is changing.
+
+## Hydraulic Fracture
+
+1. Drill a well either vertical or horizontal
+2. Access the formation through perforations or similar other methods
+3. Then, inject high pressure fluid to fracture the rocks
+
+## Risks:
+
+1. Social impact risks: Shale gas development in Quebec, NB
+2. Economic risks: Cheaper hydro power, loss for Manitoba
+3. Transportation risks: Oil and Gas pipelines and LNG plants on the West Coast
+4. Environmental risks: Impact of a million US wells in the next 50 years
+5. Political risks: Provincial resources development QC, NB.
+6. Job Opportunity risks: Jobs, infrastructure, better health services
