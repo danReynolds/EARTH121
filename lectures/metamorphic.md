@@ -1,31 +1,21 @@
-# Geologic time
+## Metamorphic Grade
 
-Discovering the magnitude of the Earth's past was a momentous development in the history of humanity.
+low-grade/fine-grained to high-grade/coarse-grained:
 
-This discovery forever altered our perception of ourselves within nature and the universe.
+slate->phyllite->schist->gneiss->granulite
 
-Understanding time permits assigning an age to:
+## 7 Metamorphic Environments
 
-Rocks, fossils, geologic structures, landscapes, tectonic events.
+1. Contact: heat from magma invading host rock. High temperature, heating by plutonic intrusion.
 
-Why is time important in Earth Science?
+2. Burial: burial of sediment in sedimentary basin.
 
-Age, Rates of geological processes, risk/hazards aspects, correlation.
+3. Dynamic: Breakage of rock by shearing at a fault zone.
 
-Are there gaps in the Rock Record?
+4. Hydrothermal: Alteration by hot, chemically aggressive, leaching water.
 
-**Unconformity** = a gap in time, due to non-deposition or erosion. We don't have info about this part of time because the rocks were missing.
+5. Subduction: Trenches and accretionary prisms, high pressure alteration in subduction zones.
 
-## Unconformities
+6. Dynamothermal: Tectonic collisions deform huge mobile belts. After collission, a sediment near the surface is now 15km beneath the Earth's surface. High pressure and temperature alteration due to orogenesis.
 
-Earth history is recorded in strata. Missing strata is missing history.
-
-The Grand Canyon has thick layers of strata, numerous gaps, partial record of geological history.
-
-## Types of Unconformity
-
-**Angular Unconformity** = an unconformity where horizontally parallel strata of sedimentary rock are deposited on tilted and eroded layers of sedimentary rock.
-
-**Disconformity** = an unconformity between parallel layers of sedimentary rock.
-
-**Nonconformity** = an unconformity where sedimentary rocks lie above eroded metamorphic or igneous rock.
+7. Shock: Rarely, Earth is struck by a comet or asteroid.
