@@ -218,6 +218,6 @@ The most recent movement is often along a strand only a few metres wide, which m
 
 Crushed and broken rocks produced during faulting are more easily eroded, often producing linear valleys or troughs that mark the locations of strike-slip faults.
 
-A strike-slip fault displaces horizontally, along the direction of the horizontal surface rather than vertially up or down the crust.
+A strike-slip fault displaces horizontally, along the direction of the horizontal surface rather than vertically up or down the crust.
 
 Many major strike-slip faults cut through the lithosphere and accommodate motion between two large lithospheric plates. These special kind of strike-slip faults are called **transform faults**.
