@@ -281,7 +281,7 @@ Sometimes the upward migration of oil and gas is halted. A geologic environment 
 
 All such traps have two common conditions:
 
-1. A porous, permeable **reservoir rock** that will yield oil and natural gas in sufficient quantities to make driling worthwhile.
+1. A porous, permeable **reservoir rock** that will yield oil and natural gas in sufficient quantities to make drilling worthwhile.
 
 2. **Cap rock** such as shale that is virtually impermeable to oil and gas.
 
