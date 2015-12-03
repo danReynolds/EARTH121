@@ -127,3 +127,9 @@ During the summer season, water is unable to percolate into the permafrost layer
 ## Other Periglacial Features
 
 Processes related to permafrost and resulting features like solifluction lobes are called periglacial. Periglacial process often initiate mass wasting events in cold environments.
+
+Frozen patches called talik can exist under the ground surface, usually lakes. Some of these lakes gradually freeze to form ice-cored mounds covered with tundra vegetation called **pingoes**.
+
+During winter, the active layer freezes, causing frost heaving of the ground surface, cryoturbation (ice mixing) of soil horizons below.
+
+Where permafrost melts, because of climate change, talik expansion, or human activities, irregular features form on the surface resulting in **thermokarst** topography, including thaw lakes.
