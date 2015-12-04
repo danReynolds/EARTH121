@@ -104,7 +104,7 @@ Common detrital sedimentary rocks are mudrocks, sandstone, and breccia.
 
 Mudrocks are more difficult to study and analyze than most other sedimentary rocks.
 
-Environments include lakes, river fllodplains, lagoons and portions of the deep ocean basin. As silt and clay accumulate, they tend to form thin layers called **laminae**.
+Environments include lakes, river floodplains, lagoons and portions of the deep ocean basin. As silt and clay accumulate, they tend to form thin layers called **laminae**.
 
 Shales are often weak because they are poorly cemented and are not well lithified.
 
@@ -154,7 +154,7 @@ If large particles are angular rather than rounded, the rock is called **breccia
 
 Because large particles abrade and become rounded very rapidly during transport, the pebbles and cobbles in breccia indicate that they did not travel far from their source area before they were deposited.
 
-Therefore like other sedimentary rocks, conglomerates and breccias contain clues about their history. The particle sizes reveal the strength of the currents that transported them, whereas the degree of rounding indicates how fara or long the particles travelled.
+Therefore like other sedimentary rocks, conglomerates and breccias contain clues about their history. The particle sizes reveal the strength of the currents that transported them, whereas the degree of rounding indicates how far or long the particles travelled.
 
 ## Chemical Sedimentary Rocks
 

@@ -72,3 +72,72 @@ All other things equal, a stream with a smaller surface perimeter, the area wher
 The size and roughness of the channel also contribute to friction, a smooth channel promotes a more uniform flow, water in an irregular channel can even form **rapids**, channels where turbulent flow extends up to the surface.
 
 ## Discharge and Changes Downstream
+
+The **discharge** of a stream is the amount of water flowing past a certain point in a given amount of time.
+
+Discharge is described by $\frac{m^{3}}{s}$
+
+The stream will increase the size of its channel by widening and deepening it so that less waiter is in contact with the bed and banks of the channel.
+
+Friction is reduced and the water flows faster.
+
+In the headwaters region where the gradient is steepest, the water must flow in a relatively small and often boulder-strewn channel.
+
+This creates drag and turbulent flow.
+
+Downstream, the bed material becomes smaller, offering less resistance to flow,
+and the width and depth of the channel increases to accommodate greater discharge.
+
+These factors permit water to flow more freely and rapidly and compensate
+for the decrease in gradient. A stream can therefore maintain a higher velocity
+near its mouth than upstream because of the greater discharge, larger channel and smoother bed.
+
+## Stream Erosion
+
+Streams erode their channels mainly by the plucking of loosened particles from their beds and by abrasion.
+
+Some erosion is also by the dissolution of soluble bedrock and channel debris.
+
+Common features of some riverbeds are rounded depressions called **potholes**. They are created by the abrasive action of particles swirling in fast-moving eddies.
+
+The rotational motion of the sand and pebbles acts like a drill to bore the holes.
+
+## Dissolved Load
+
+Most dissolved load is supplied by groundwater. As water percolates through the ground, it acquires soluble soil components, then ions, from deeper cracks and pores in bedrock.
+
+Eventually, much of this ion-rich water finds its way into streams.
+
+The velocity of stream flow has essentially no effect on a stream's ability to carry its dissolved loads.
+
+## Suspended Load
+
+Most streams carry the largest part of their load in **suspension**. The visible cloud of sediment suspended in the water is the most obvious portion of a stream's load.
+
+During flood stage, larger particles are suspended as well. Then the total quantity of material carried in suspension increases dramatically.
+
+The type and amount of material carried in suspension are controlled by two factors: the velocity of the water and the settling velocity of each sediment grain.
+
+**Settling Velocity** = the speed which a particle falls through a stationary fluid. The larger the particle, the more rapidly it settles toward the streambed.
+
+## Bed Load
+
+Coarser particles move along the bed of the channel as **bed load**. The particles that make up the bed load move by rolling, sliding and saltation.
+
+Sediment moving by **saltation**, leaping, appear to be jumping or skippnig along the streambed as particles are propelled upward by collisions or lifted by currents.
+
+## Capacity and Competence
+
+A stream's ability to carry solid particles is decribed by two criteria.
+
+The **maximum load** of solid particles that a stream can transport per unit of time is termed its **capacity**. The greater the discharge, the greater is the stream's capacity for hauling sediment.
+
+**Competence** of a stream is the maximum particle size that a stream can transport, based on its velocity. Fast streams have a greater competence than slower streams.
+
+The increase in discharge results in greater capacity, the increased velocity produces greater competence.
+
+With rising velocity the water becomes more turbulant.
+
+## Deposition of Sediment By Streams
+
+Whenever a stream's velocity slows, its competence is reduced and particles of sediment are deposited when their critical settling velocity is reached. This process called sorting, explains why particles of similar size are deposited together.
