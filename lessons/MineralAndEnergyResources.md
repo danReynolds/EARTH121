@@ -110,7 +110,7 @@ The convective fluid flow that develops in sea-floor spreading leaches metals fr
 
 VMS deposits are very important because they contain economically valuable concentrations of copper, zinc, lead, silver, and gold.
 
-## Sediment-Assocaited Hydrothermal Deposits
+## Sediment-Associated Hydrothermal Deposits
 
 Some mineral deposits are associated with sedimentary rock and appear to have involved mineral precipitation from hydrothermal fluids at relatively low temperatures.
 
@@ -138,7 +138,7 @@ The formation of **placer deposits** relates to the sorting action of running wa
 
 Large, heavy sediment grains tend to be deposited in more agitated water than do smaller, lighter ones.
 
-Mineral particles of high density an be concentrated because of the sorting out and washing away of mineral particles of lower density.
+Mineral particles of high density can be concentrated because of the sorting out and washing away of mineral particles of lower density.
 
 The concentrations of heavy minerals that form in this manner are called placers and are associated with areas of high water agitation, such as streams or beaches.
 
@@ -199,7 +199,7 @@ Aggregate is used as-is in various construction applications.
 
 ## Industrial Minerals
 
-Many non-metalic resources are classified as industrial minerals. In some instances, these materials are important because they contain specific chemical elements or compounds used in fertilizers or industrial chemicals.
+Many non-metallic resources are classified as industrial minerals. In some instances, these materials are important because they contain specific chemical elements or compounds used in fertilizers or industrial chemicals.
 
 Some minerals possess useful physical properties. For example, garnet is both relatively hard and common, making it a handy substance for the manufacture of abrasive products.
 
@@ -247,7 +247,7 @@ During many times in Earth's past, widespread evaporite deposits were formed in 
 
  ### Petroleum
 
- Petroleum includes oil and gas and ins presently a vital resource for our daily activities.
+ Petroleum includes oil and gas and is presently a vital resource for our daily activities.
 
  It is mainly used as fuel, but it also composes the main ingredients in plastics that find their way into synthetic fabrics, product packaging, etc.
 
@@ -323,7 +323,7 @@ The human population constitutes a giant chemical factory producing a remarkable
 
 Primary pollutants are emitted directly from identifiable sources, polluting the air immediately.
 
-When chemical reactions take place among primary pollutants, *secondary pollutants* are formed. The noxious mixture of gases and particles that make up urban smog is an important example that is created when volatile organic compounds and suplhur and nitrogen oxides react in the presence of sunlight.
+When chemical reactions take place among primary pollutants, *secondary pollutants* are formed. The noxious mixture of gases and particles that make up urban smog is an important example that is created when volatile organic compounds and sulphur and nitrogen oxides react in the presence of sunlight.
 
 The burning of fossil fuels by industry and various modes of transpiration are the greatest contributors of these compounds.
 

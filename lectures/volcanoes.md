@@ -71,7 +71,7 @@ Warning signs precede most eruptions:
 1. Earthquake activity: magma flow increases seismically.
 2. Heat Flow: magma causes volcanoes to heat up.
 3. Changes in shape: Magma causes volcanoes to inflate.
-4. Emaission increases: Changes in gas mix and volume.
+4. Emission increases: Changes in gas mix and volume.
 
 ## Advantages of volcanoes
 

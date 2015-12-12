@@ -62,7 +62,7 @@ Deltas are the most important type of deposit of transitional environments, the 
 
 ### Marine Environments
 
-Marine depositional environments are divided according to depth. The shallow marine environments reach to depths of 200 metres and extend from the shore tot he outer edge of the continental shelf.
+Marine depositional environments are divided according to depth. The shallow marine environments reach to depths of 200 metres and extend from the shore to the outer edge of the continental shelf.
 
 The deep marine environments lies seaward of the continental shelf in waters deeper than 200 metres.
 
@@ -257,7 +257,7 @@ Less soluble minerals precipitate first and more soluble minerals precipitate la
 
 Gypsum precipitates when about two-thirds to three-quarters of seawater evaporated, and halite settles out when nine-tenths of the water has been removed.
 
-On a smaller scale, evaporite desposits can be seen in places like Great Salt Lake of Utah and in saline lakes in Canada.
+On a smaller scale, evaporite deposits can be seen in places like Great Salt Lake of Utah and in saline lakes in Canada.
 
 Following rains or snowmelt, streams flow into an enclosed basin. As the water evaporates, **salt flats** form when dissolved materials are precipitated as a white crust on the ground.
 

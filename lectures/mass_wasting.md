@@ -29,7 +29,7 @@ Motion, Material, Movement
 
 Velocity, how fast is the movement
 Material, what it is composed of
-Natural of motion, fall, slide or flow
+Nature of motion, fall, slide or flow
 
 ## What is the most obvious factor that affects mass movement?
 

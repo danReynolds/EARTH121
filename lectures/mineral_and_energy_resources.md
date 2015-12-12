@@ -10,7 +10,6 @@ flexible, can put one in, remove it,
 open one up etc.
 non-polluting
 
-
 Disadvantages:
 
 Limited by high flows. If high flows convert to low

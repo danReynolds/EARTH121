@@ -30,7 +30,9 @@ When the vibration from a distant earthquake reaches the instrument, the **inert
 
 Seismic waves radiate outwards in all directions from the point of focus.
 
-The wave types that travel through Earth's interior are called **body waves**. The types that travel along the outer part of Earth are called **surface waves**. Body waves are further divided into two types:
+The wave types that travel through Earth's interior are called **body waves**. The types that travel along the outer part of Earth are called **surface waves**.
+
+**Body waves** are further divided into two types:
 
 1. **Primary waves**
 
@@ -42,7 +44,7 @@ Solids, liquids, and gases resist a change in volume when compressed and will el
 
 S waves shake the particles at right angles to the direction of travel. Gases and liquids do not respond elastically to S waves.
 
-Surface waves have both a vertical and horizontal motion and the latter horizontal motion is especially damaging to structures.
+**Surface waves** have both a vertical and horizontal motion and the latter horizontal motion is especially damaging to structures.
 
 P waves travel 1.7 times as fast as S waves, and S waves travel 1.1 times as fast as surface waves.
 
@@ -114,7 +116,6 @@ The amount of structural damage attributable to the vibrations of an Earthquake 
 2. The duration of the vibrations
 3. The nature of the material on which the structure rests
 4. The design of the structure
-
 
 ### Amplification of Seismic waves
 
@@ -208,7 +209,7 @@ German seismologist discovered another major boundary, based on the observation 
 
 This belt, where seismic waves are absent, is about 40 degrees wide and has been named the **P-wave shadow zone**. The P-wave shadow zone could be explained if Earth contained a core that was composed of material unlike the overlying mantle. The core hinders the transmission of P waves.
 
-The shadow zone bends the P waves, which enter the core. S waves do not travel through the core, meaning that at least a p0ortion of this region is liquid.
+The shadow zone bends the P waves, which enter the core. S waves do not travel through the core, meaning that at least a portion of this region is liquid.
 
 P-wave velocities also drop suddenly when they enter the core, which would make sense because melting reduces the elasticity of rock, and a liquid layer below the mantle, a liquid core, would explain these observations.
 

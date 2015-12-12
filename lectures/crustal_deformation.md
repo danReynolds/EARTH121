@@ -56,7 +56,7 @@ There is a transition from brittle to ductile deformation at 10-15km.
 
 ## Deformation - Composition
 
-General ranking of lithology according to strength, based on tests at room temperature and low confiing pressure:
+General ranking of lithology according to strength, based on tests at room temperature and low confining pressure:
 
 Strongest / competent:
 
@@ -98,7 +98,7 @@ Normal Fault: for a dip-slip fault, with brittle fracturing, it has the head wal
 
 Reverse Fault: reverse to gravity, moves up.
 
-Thrust Fault: if dip, so angle it dipped, is less than 45%, moving up and over the adjacent piece, making it vertically higher and horizontally thinner.
+Thrust Fault: if dip, so angle it dipped, is less than 45%, moving up and over the adjacent piece, making it vertically higher and horizontally shorter.
 
 Then there are **strike/slip** faults:
 

@@ -60,7 +60,7 @@ A single magma can generate rocks with widely differing compositions and a varie
 
 **Magmatic differentiation** = formation of one or more secondary magmas from a single parent magma.
 
-**Assimilation** = as magma rises upward, it incorporates some of the surrouding host rock. Stress causes numerous cracks in the overlying rock.
+**Assimilation** = as magma rises upward, it incorporates some of the surrounding host rock. Stress causes numerous cracks in the overlying rock.
 
 **Magma Mixing** = one magma body intrudes another and once combined, convective flow can stir the two magmas and generate a fluid with an intermediate composition.
 
@@ -77,7 +77,7 @@ As mafic magma migrates upward, the confining pressure diminishes and reduces it
 ## Formation of Andesitic and Felsic magmas
 
 Only found within or adjacent to continental margins. Interactions between mantle-derived mafic magmas and more silica-rich components of Earth's crust generate these magmas.
-The result is the formation of a more silica rich magma of intermediate composition or andesitic composition (between mafic and felsic).
+The result is the formation of a **more silica rich magma** of intermediate composition or andesitic composition (between mafic and felsic).
 
 Felsic melts are higher in silica and more viscous than other magmas. They are also formed at lower temperatures than other magmas. They usually lose their mobility before reaching the surface.
 

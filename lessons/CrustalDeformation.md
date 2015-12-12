@@ -64,7 +64,7 @@ Sedimentary rocks that are weakly cemented or metamorphic rocks that contain zon
 
 Rocks that are ductile and are weakly bound enough to stretch and foliate include rock salt, gypsum, shale.
 
-Rock salt is so weak hat it deforms under small amounts of differential stress and rises like stone pillars.
+Rock salt is so weak that it deforms under small amounts of differential stress and rises like stone pillars.
 
 Glacial ice is the weakest naturally occurring solid to exhibit ductile flow on a large scale.
 

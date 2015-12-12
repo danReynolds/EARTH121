@@ -1,6 +1,6 @@
 ## James Hutton:
 
-Theory of the Earth, Geologic change is slow, large changes require large amounts of time.
+Theory of the Earth, Uniformitarianism, Geologic change is slow, large changes require large amounts of time.
 
 Cycle of Sedimentation, Burial, Mountain Building, Erosion.
 
@@ -9,6 +9,10 @@ Cycle of Sedimentation, Burial, Mountain Building, Erosion.
 Processes that shaped Earth throughout geologic time are the same as those observable today.
 
 The present is the key to the past.
+
+## Harry Hess
+
+Theory of Sea-Floor Spreading
 
 ## Sir William Logan
 

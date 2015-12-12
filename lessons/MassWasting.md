@@ -12,7 +12,7 @@ The reason stream valleys are wider than they are deep is because of mass wastin
 
 If mass wasting is to occur, it needs slopes down which rock, soil and regolith can move. Most mass wasting events occur near young mountains.
 
-Massive destructive landslides occur and over time, steep and rugged mountains are worn down to from gentler, more subdued terrain with smaller, less dramatic downslope movements.
+Massive destructive landslides occur and over time, steep and rugged mountains are worn down to form gentler, more subdued terrain with smaller, less dramatic downslope movements.
 
 Processes weaken slope material until the point that a trigger occurs for downslope movement.
 

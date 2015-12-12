@@ -77,7 +77,7 @@ The **discharge** of a stream is the amount of water flowing past a certain poin
 
 Discharge is described by $\frac{m^{3}}{s}$
 
-The stream will increase the size of its channel by widening and deepening it so that less waiter is in contact with the bed and banks of the channel.
+The stream will increase the size of its channel by widening and deepening it so that less water is in contact with the bed and banks of the channel.
 
 Friction is reduced and the water flows faster.
 
@@ -128,7 +128,7 @@ Sediment moving by **saltation**, leaping, appear to be jumping or skippnig alon
 
 ## Capacity and Competence
 
-A stream's ability to carry solid particles is decribed by two criteria.
+A stream's ability to carry solid particles is described by two criteria.
 
 The **maximum load** of solid particles that a stream can transport per unit of time is termed its **capacity**. The greater the discharge, the greater is the stream's capacity for hauling sediment.
 

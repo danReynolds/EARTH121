@@ -94,4 +94,4 @@ Much of Earth's surface is covered by **regolith**, the layer of rock and minera
 
 About one-half of the total volume of a good-quality soil is a mixture of disintegrated and decomposed rock and humus, the decayed remains of animal and plant life.
 
-Humus is an important source of plant nutrients and it enhances the soil's ability to retain water. Because plants requrie air and water to live and grow, the portion of the soil consisting of pore spaces that allow for circulation of these elements is vital.
+Humus is an important source of plant nutrients and it enhances the soil's ability to retain water. Because plants require air and water to live and grow, the portion of the soil consisting of pore spaces that allow for circulation of these elements is vital.

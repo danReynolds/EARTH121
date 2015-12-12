@@ -20,7 +20,6 @@ The main factors are:
 
 Heat can be given off by an intrusive igneous body that bakes the surrounding rocks. It can also cook rocks using Earth's internal heat, the geothermal gradient.
 
-
 2) Pressure: Pressure influences the temperature at which certain minerals are stable and plays a role in dictating the distribution of elements within a metamorphic rock.
 
 **Confining Pressure** = or uniform stress, circle, involves the squeezing of a rock in all directions, confining the material into the smallest possible volume with no change in shape. Water pressure is an example of confining pressure, and both increase with depth.
@@ -71,7 +70,7 @@ Metamorphic rocks are often described in terms of their **metamorphic grade**, o
 
 An increase in metamorphic grade is indicated by the sequential appearance of minerals that are stable at progressively higher temperatures and in some cases, progressively higher pressures.
 
-Some metamorphic minerals form and remain stable within relatively narrow, well-defined ranges of pressure and temperature. SOme of these minerals are used as **index minerals** to define the grade of a metamorphic rock.
+Some metamorphic minerals form and remain stable within relatively narrow, well-defined ranges of pressure and temperature. Some of these minerals are used as **index minerals** to define the grade of a metamorphic rock.
 
 For example, the mineral *chlorite*, begins to form at relatively low temperatures, cooler than 200C. Rocks that contain chlorite are therefore called **low grade** metamorphic rocks.
 
@@ -95,7 +94,7 @@ Occurs when rocks immediately surrounding an igneous body are cooked and altered
 
 Larger intrusions such as batholiths can produce aureoles that extend outward for several km.
 
-Although contact metamorphism is not entirely restricted to shallow crustal depths, it is most easily recognized when it has occurred near the surface. Here, the temperature contract between the intrusion and the host rock is greatest and the confining pressure is low.
+Although contact metamorphism is not entirely restricted to shallow crustal depths, it is most easily recognized when it has occurred near the surface. Here, the temperature contrast between the intrusion and the host rock is greatest and the confining pressure is low.
 
 Metamorphic rocks produced by contact metamorphism are typically non-foliated, so not expanding parallely like a leaf, because contact metamorphism involves the simple baking of a parent rock in the absence of directed pressure.
 
@@ -119,7 +118,7 @@ The thickening causes crust above sea-level to be pushed up to form mountains an
 
 Rocks are subjected to elevated temperatures that accompany both deep burial and the emplacement of magma from the mantle.
 
-The intensity of regional metamorphism becomes greatest when continents collide. The cores of many mountain ranges that result from continental collission consist of folded and faulted metamorphic rock, commonly intermixed with intruded igneous rocks.
+The intensity of regional metamorphism becomes greatest when continents collide. The cores of many mountain ranges that result from continental collision consist of folded and faulted metamorphic rock, commonly intermixed with intruded igneous rocks.
 
 As these deformed rock masses are uplifted, erosion removes the overlying material to expose the igneous and metamorphic rocks that compose the central core of the range.
 
@@ -179,7 +178,7 @@ At medium to high metamorphic grades, the foliation in basalt-derived metamorphi
 
 In the extreme environments in regional metamorphism, rocks begin to partially melt and pass into a transition zone between metamorphism and the igneous realm.
 
-Part of the rock remains solid and can be considered part of the metamporphic process, but part of it is melted to form magma. Rocks called **migmatites** represent this state and include both igneous and metamorphic components.
+Part of the rock remains solid and can be considered part of the metamorphic process, but part of it is melted to form magma. Rocks called **migmatites** represent this state and include both igneous and metamorphic components.
 
 They are generally included in metamorphic rocks because they represent the very last possible step a metamorphic rock can take in its passage through conditions of progressively higher temperature and pressure.
 
@@ -215,10 +214,10 @@ Increasing temperatures and pressures associated with regional metamorphism are 
 
 Subduction zone metamorphism is characterized by the *blueschist facies*, representing relatively low temperatures but high pressure.
 
-Finally, rocks of the *eclogite* facies are diagnostic of very high temperatures and pressures encountered by a deeply subducted slab of oceanic lithospher.
+Finally, rocks of the *eclogite* facies are diagnostic of very high temperatures and pressures encountered by a deeply subducted slab of oceanic lithosphere.
 
 ## Ancient Metamorphic Environments
 
-There are large expanses of metamorphic rock within the stable continenal interiors. These flat expanses of metamorphic and igneous rocks are called **shields**. One such region, the Canadian Shield, has very little topographic expression.
+There are large expanses of metamorphic rock within the stable continental interiors. These flat expanses of metamorphic and igneous rocks are called **shields**. One such region, the Canadian Shield, has very little topographic expression.
 
 Shields are ancient rock and their structure is similar to that found in the cores of younger, deformed mountainous terrains. This evidence strongly supports the generally accepted view that Earth has been a dynamic planet throughout most of its history. Studies of these vast areas of metamorphism in the context of the plate tectonic model have given geologists new insights into the problem of discerning just how the continents came to exist.
